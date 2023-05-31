@@ -1,0 +1,15 @@
+name: unit-test
+
+on:
+  push:
+    branches: [ main, dev, feature-env ]
+
+jobs:
+  unit-test-tgt:
+    name: Unit Test
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install dependencies
+        run: |
+          ls
