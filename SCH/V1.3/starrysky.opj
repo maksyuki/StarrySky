@@ -4,7 +4,7 @@
   (Folder "Design Resources"
     (Folder "Library")
     (NoModify)
-    (File ".\starrysky.DSN"
+    (File ".\starrysky.dsn"
       (Type "Schematic Design")
       (DisplayName ".\starrysky.DSN"))
     (BuildFileAddedOrDeleted "x")
@@ -210,38 +210,15 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "G:\project_development\GitHub\StarrySky\SCH\V1.3\starrysky.DSN")
-      (Path "Design Resources"
-         "G:\project_development\GitHub\StarrySky\SCH\V1.3\starrysky.DSN"
-         "SCHEMATIC1")
+      (Path "Design Resources" ".\starrysky.dsn")
+      (Path "Design Resources" ".\starrysky.dsn" "SCHEMATIC1")
       (Path "Outputs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 0 200 0 227"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 26 1167 26 397")
-        (Scroll "2910 374")
-        (Zoom "200")
-        (Occurrence "/"))
-      (Path "G:\PROJECT_DEVELOPMENT\GITHUB\STARRYSKY\SCH\V1.3\STARRYSKY.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "P01_SoC"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1193 52 423")
-        (Scroll "0 459")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path "G:\PROJECT_DEVELOPMENT\GITHUB\STARRYSKY\SCH\V1.3\STARRYSKY.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "P03_FPGA_PL")))
+      (Tab 0)))
   (MPSSessionName "abcd")
   (LastUsedLibraryBrowseDirectory
      "G:\project_development\GitHub\cadence_sch_lib")
