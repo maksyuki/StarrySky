@@ -4,7 +4,7 @@
   (Folder "Design Resources"
     (Folder "Library")
     (NoModify)
-    (File ".\starrysky.DSN"
+    (File ".\starrysky.dsn"
       (Type "Schematic Design")
       (DisplayName ".\starrysky.DSN"))
     (BuildFileAddedOrDeleted "x")
@@ -92,7 +92,8 @@
     (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
     (BOM_One_Part_Per_Line "FALSE")
     (Open_BOM_in_Excel "TRUE")
-    (BOM_View_Output "FALSE"))
+    (BOM_View_Output "FALSE")
+    (Board_sim_option "VHDL_flow"))
   (Folder "Outputs")
   (Folder "Referenced Projects")
   (PartMRUSelector
@@ -199,14 +200,35 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\starrysky.DSN")
-      (Path "Design Resources" ".\starrysky.DSN" "SCHEMATIC1"))
+      (Path "Design Resources" ".\starrysky.dsn")
+      (Path "Design Resources" ".\starrysky.dsn" "SCHEMATIC1")
+      (Select "Design Resources" ".\starrysky.dsn" "SCHEMATIC1" "P01_SoC"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 227"))
-      (Tab 0)))
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 227"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 78 1250 78 449")
+        (Scroll "-335 -3")
+        (Zoom "29")
+        (Occurrence "/"))
+      (Path "G:\PROJECT_DEVELOPMENT\GITHUB\STARRYSKY\SCH\V1.2\STARRYSKY.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P01_SoC"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1276 104 475")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "G:\PROJECT_DEVELOPMENT\GITHUB\STARRYSKY\SCH\V1.2\STARRYSKY.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P02_FPGA_PS")))
   (MPSSessionName "abcd")
   (LastUsedLibraryBrowseDirectory
      "G:\project_development\GitHub\cadence_sch_lib")
