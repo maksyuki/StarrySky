@@ -4,7 +4,7 @@
   (Folder "Design Resources"
     (Folder "Library")
     (NoModify)
-    (File ".\starrysky.DSN"
+    (File ".\starrysky.dsn"
       (Type "Schematic Design")
       (DisplayName ".\starrysky.DSN"))
     (BuildFileAddedOrDeleted "x")
@@ -93,21 +93,53 @@
     (BOM_One_Part_Per_Line "FALSE")
     (Open_BOM_in_Excel "TRUE")
     (BOM_View_Output "FALSE"))
-  (Folder "Outputs"
-    (File ".\nutshell_pi.drc"
-      (Type "Report")
-      (DisplayName ".\nutshell_pi.drc"))
-    (File ".\netlist\pstxnet.dat"
-      (Type "Report")
-      (DisplayName "pstxnet.dat"))
-    (File ".\netlist\pstxprt.dat"
-      (Type "Report")
-      (DisplayName "pstxprt.dat"))
-    (File ".\netlist\pstchip.dat"
-      (Type "Report")
-      (DisplayName "pstchip.dat")))
+  (Folder "Outputs")
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (FPC-8
+      (FullPartName "FPC-8.Normal")
+      (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
+      (DeviceIndex "0"))
+    (DF40C-100DS-0.4V
+      (FullPartName "DF40C-100DS-0.4V.Normal")
+      (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
+      (DeviceIndex "0"))
+    (SOC-28NM-202301
+      (FullPartName "SOC-28NM-202301.Normal")
+      (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
+      (DeviceIndex "0"))
+    (HEADER-2X1
+      (FullPartName "HEADER-2X1.Normal")
+      (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
+      (DeviceIndex "0"))
+    (INDUCTOR
+      (FullPartName "INDUCTOR.Normal")
+      (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
+      (DeviceIndex "0"))
+    (CAPACITOR-POL
+      (FullPartName "CAPACITOR-POL.Normal")
+      (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
+      (DeviceIndex "0"))
+    (NS4150B
+      (FullPartName "NS4150B.Normal")
+      (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
+      (DeviceIndex "0"))
+    (PJ-342
+      (FullPartName "PJ-342.Normal")
+      (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
+      (DeviceIndex "0"))
+    (SPX3819M5-L-3-3
+      (FullPartName "SPX3819M5-L-3-3.Normal")
+      (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
+      (DeviceIndex "0"))
+    (GND_SIGNAL
+      (LibraryName
+         "E:\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (ES8388
+      (FullPartName "ES8388.Normal")
+      (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
+      (DeviceIndex "0"))
     (TPS3808G01
       (FullPartName "TPS3808G01.Normal")
       (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
@@ -120,20 +152,12 @@
       (FullPartName "LPSDRAM_16X16.Normal")
       (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
       (DeviceIndex "0"))
-    (SOC-28NM-202301
-      (FullPartName "SOC-28NM-202301.Normal")
-      (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
-      (DeviceIndex "0"))
     (TXS0102
       (FullPartName "TXS0102.Normal")
       (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
       (DeviceIndex "0"))
     (TVS_DIODE_DOUBLE
       (FullPartName "TVS_DIODE_DOUBLE.Normal")
-      (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
-      (DeviceIndex "0"))
-    (INDUCTOR
-      (FullPartName "INDUCTOR.Normal")
       (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
       (DeviceIndex "0"))
     (XTAL-CRY-2
@@ -168,64 +192,67 @@
       (FullPartName "RT2515H.Normal")
       (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
       (DeviceIndex "0"))
-    (PJ-342
-      (FullPartName "PJ-342.Normal")
-      (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
-      (DeviceIndex "0"))
     (MIC
       (FullPartName "MIC.Normal")
-      (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
-      (DeviceIndex "0"))
-    (HEADER-2X1
-      (FullPartName "HEADER-2X1.Normal")
-      (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
-      (DeviceIndex "0"))
-    (FIXING-HOLE
-      (FullPartName "FIXING-HOLE.Normal")
-      (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
-      (DeviceIndex "0"))
-    (HEADER-6X1
-      (FullPartName "HEADER-6X1.Normal")
-      (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
-      (DeviceIndex "0"))
-    (WS2812C
-      (FullPartName "WS2812C.Normal")
-      (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
-      (DeviceIndex "0"))
-    (RF-IPEX-3PIN
-      (FullPartName "RF-IPEX-3PIN.Normal")
-      (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
-      (DeviceIndex "0"))
-    (AP6212
-      (FullPartName "AP6212.Normal")
-      (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
-      (DeviceIndex "0"))
-    (TJA1050
-      (FullPartName "TJA1050.Normal")
-      (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
-      (DeviceIndex "0"))
-    (DE-15
-      (FullPartName "DE-15.Normal")
       (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
       (DeviceIndex "0")))
   (GlobalState
     (FileView
       (Path "Design Resources")
       (Path "Design Resources"
-         "G:\project_development\GitHub\StarrySky\SCH\V2.0\starrysky.DSN")
+         "g:\project_development\github\starrysky\sch\v2.0\starrysky.dsn")
       (Path "Design Resources"
-         "G:\project_development\GitHub\StarrySky\SCH\V2.0\starrysky.DSN"
+         "g:\project_development\github\starrysky\sch\v2.0\starrysky.dsn"
          "SCHEMATIC1")
-      (Path "Outputs")
-      (Select "Design Resources"
-         "G:\project_development\GitHub\StarrySky\SCH\V2.0\starrysky.DSN"
-         "SCHEMATIC1" "P01_SOC"))
+      (Path "Design Resources"
+         "g:\project_development\github\starrysky\sch\v2.0\starrysky.dsn"
+         "Design Cache"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 0 200 0 227"))
-      (Tab 0)))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1271 130 501")
+        (Scroll "2114 738")
+        (Zoom "232")
+        (Occurrence "/"))
+      (Path "G:\PROJECT_DEVELOPMENT\GITHUB\STARRYSKY\SCH\V2.0\STARRYSKY.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P01_SoC"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1193 52 423")
+        (Scroll "-84 0")
+        (Zoom "72")
+        (Occurrence "/"))
+      (Path "G:\PROJECT_DEVELOPMENT\GITHUB\STARRYSKY\SCH\V2.0\STARRYSKY.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P02_FPGA_PS"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1219 78 449")
+        (Scroll "759 372")
+        (Zoom "132")
+        (Occurrence "/"))
+      (Path "G:\PROJECT_DEVELOPMENT\GITHUB\STARRYSKY\SCH\V2.0\STARRYSKY.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P03_FPGA_PL"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1245 104 475")
+        (Scroll "0 0")
+        (Zoom "124")
+        (Occurrence "/"))
+      (Path "G:\PROJECT_DEVELOPMENT\GITHUB\STARRYSKY\SCH\V2.0\STARRYSKY.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "P04_FPGA_B2B")))
   (MPSSessionName "abcd")
   (LastUsedLibraryBrowseDirectory
      "G:\project_development\GitHub\cadence_sch_lib")

@@ -213,9 +213,7 @@
       (Path "Design Resources" ".\starrysky.dsn")
       (Path "Design Resources" ".\starrysky.dsn" "SCHEMATIC1")
       (Path "Outputs")
-      (Select "Design Resources" ".\starrysky.dsn" "SCHEMATIC1" "P01_SoC")
-      (Select "Design Resources" ".\starrysky.dsn" "SCHEMATIC1" "P02_FPGA_PS")
-      (Select "Design Resources" ".\starrysky.dsn" "SCHEMATIC1" "P03_FPGA_PL"))
+      (Select "Design Resources" ".\starrysky.dsn" "SCHEMATIC1" "P02_FPGA_PS"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
