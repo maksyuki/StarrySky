@@ -96,16 +96,24 @@
   (Folder "Outputs")
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (TPS2051BDBV
+      (FullPartName "TPS2051BDBV.Normal")
+      (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
+      (DeviceIndex "0"))
+    (XTAL-CRY-4
+      (FullPartName "XTAL-CRY-4.Normal")
+      (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
+      (DeviceIndex "0"))
+    (SOC-28NM-202301
+      (FullPartName "SOC-28NM-202301.Normal")
+      (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
+      (DeviceIndex "0"))
     (FPC-8
       (FullPartName "FPC-8.Normal")
       (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
       (DeviceIndex "0"))
     (DF40C-100DS-0.4V
       (FullPartName "DF40C-100DS-0.4V.Normal")
-      (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
-      (DeviceIndex "0"))
-    (SOC-28NM-202301
-      (FullPartName "SOC-28NM-202301.Normal")
       (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
       (DeviceIndex "0"))
     (HEADER-2X1
@@ -187,14 +195,6 @@
     (SW-KEY-LOCK-DPDT
       (FullPartName "SW-KEY-LOCK-DPDT.Normal")
       (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
-      (DeviceIndex "0"))
-    (RT2515H
-      (FullPartName "RT2515H.Normal")
-      (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
-      (DeviceIndex "0"))
-    (MIC
-      (FullPartName "MIC.Normal")
-      (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
       (DeviceIndex "0")))
   (GlobalState
     (FileView
@@ -206,7 +206,9 @@
          "SCHEMATIC1")
       (Path "Design Resources"
          "g:\project_development\github\starrysky\sch\v2.0\starrysky.dsn"
-         "Design Cache"))
+         "Design Cache")
+      (Select "Design Resources"
+         "g:\project_development\github\starrysky\sch\v2.0\starrysky.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -217,8 +219,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 130 1271 130 501")
-        (Scroll "2114 738")
-        (Zoom "232")
+        (Scroll "157 174")
+        (Zoom "116")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\STARRYSKY\SCH\V2.0\STARRYSKY.DSN")
       (Schematic "SCHEMATIC1")
@@ -227,8 +229,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 52 1193 52 423")
-        (Scroll "-84 0")
-        (Zoom "72")
+        (Scroll "2442 1428")
+        (Zoom "288")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\STARRYSKY\SCH\V2.0\STARRYSKY.DSN")
       (Schematic "SCHEMATIC1")
@@ -237,8 +239,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 78 1219 78 449")
-        (Scroll "759 372")
-        (Zoom "132")
+        (Scroll "-201 0")
+        (Zoom "33")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\STARRYSKY\SCH\V2.0\STARRYSKY.DSN")
       (Schematic "SCHEMATIC1")
@@ -247,8 +249,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 104 1245 104 475")
-        (Scroll "0 0")
-        (Zoom "124")
+        (Scroll "-149 0")
+        (Zoom "62")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\STARRYSKY\SCH\V2.0\STARRYSKY.DSN")
       (Schematic "SCHEMATIC1")
