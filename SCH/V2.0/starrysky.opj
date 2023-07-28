@@ -96,6 +96,30 @@
   (Folder "Outputs")
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (HEADER-20X2
+      (FullPartName "HEADER-20X2.Normal")
+      (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
+      (DeviceIndex "0"))
+    (SW-SLIDE-DPDT
+      (FullPartName "SW-SLIDE-DPDT.Normal")
+      (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
+      (DeviceIndex "0"))
+    (NMOS
+      (FullPartName "NMOS.Normal")
+      (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
+      (DeviceIndex "0"))
+    (AON7544
+      (FullPartName "AON7544.Normal")
+      (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
+      (DeviceIndex "0"))
+    (RCLAMP0524P
+      (FullPartName "RCLAMP0524P.Normal")
+      (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
+      (DeviceIndex "0"))
+    (XTAL-OSC
+      (FullPartName "XTAL-OSC.Normal")
+      (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
+      (DeviceIndex "0"))
     (TPS2051BDBV
       (FullPartName "TPS2051BDBV.Normal")
       (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
@@ -171,30 +195,6 @@
     (XTAL-CRY-2
       (FullPartName "XTAL-CRY-2.Normal")
       (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
-      (DeviceIndex "0"))
-    (OFFPAGELEFT-R
-      (LibraryName
-         "E:\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
-    (SW-KEY-4
-      (FullPartName "SW-KEY-4.Normal")
-      (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
-      (DeviceIndex "0"))
-    (DIODE
-      (FullPartName "DIODE.Normal")
-      (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
-      (DeviceIndex "0"))
-    (TVS_DIODE_SINGLE
-      (FullPartName "TVS_DIODE_SINGLE.Normal")
-      (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
-      (DeviceIndex "0"))
-    (TEST_POINT
-      (FullPartName "TEST_POINT.Normal")
-      (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
-      (DeviceIndex "0"))
-    (SW-KEY-LOCK-DPDT
-      (FullPartName "SW-KEY-LOCK-DPDT.Normal")
-      (LibraryName "G:\PROJECT_DEVELOPMENT\GITHUB\CADENCE_SCH_LIB\ALL.OLB")
       (DeviceIndex "0")))
   (GlobalState
     (FileView
@@ -208,7 +208,8 @@
          "g:\project_development\github\starrysky\sch\v2.0\starrysky.dsn"
          "Design Cache")
       (Select "Design Resources"
-         "g:\project_development\github\starrysky\sch\v2.0\starrysky.dsn"))
+         "g:\project_development\github\starrysky\sch\v2.0\starrysky.dsn"
+         "Design Cache"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -219,7 +220,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 130 1271 130 501")
-        (Scroll "157 174")
+        (Scroll "0 0")
         (Zoom "116")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\STARRYSKY\SCH\V2.0\STARRYSKY.DSN")
@@ -229,8 +230,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 52 1193 52 423")
-        (Scroll "2442 1428")
-        (Zoom "288")
+        (Scroll "489 492")
+        (Zoom "130")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\STARRYSKY\SCH\V2.0\STARRYSKY.DSN")
       (Schematic "SCHEMATIC1")
@@ -239,8 +240,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 78 1219 78 449")
-        (Scroll "-201 0")
-        (Zoom "33")
+        (Scroll "1407 1547")
+        (Zoom "132")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\STARRYSKY\SCH\V2.0\STARRYSKY.DSN")
       (Schematic "SCHEMATIC1")
@@ -249,8 +250,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 104 1245 104 475")
-        (Scroll "-149 0")
-        (Zoom "62")
+        (Scroll "0 1503")
+        (Zoom "248")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\STARRYSKY\SCH\V2.0\STARRYSKY.DSN")
       (Schematic "SCHEMATIC1")
