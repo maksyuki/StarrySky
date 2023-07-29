@@ -209,7 +209,7 @@
          "Design Cache")
       (Select "Design Resources"
          "g:\project_development\github\starrysky\sch\v2.0\starrysky.dsn"
-         "Design Cache"))
+         "Design Cache" "ACA-SPI-004-K02"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -220,8 +220,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 130 1271 130 501")
-        (Scroll "0 0")
-        (Zoom "116")
+        (Scroll "0 299")
+        (Zoom "232")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\STARRYSKY\SCH\V2.0\STARRYSKY.DSN")
       (Schematic "SCHEMATIC1")
@@ -230,7 +230,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 52 1193 52 423")
-        (Scroll "489 492")
+        (Scroll "489 453")
         (Zoom "130")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\STARRYSKY\SCH\V2.0\STARRYSKY.DSN")
@@ -240,8 +240,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 78 1219 78 449")
-        (Scroll "1407 1547")
-        (Zoom "132")
+        (Scroll "-180 0")
+        (Zoom "35")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\STARRYSKY\SCH\V2.0\STARRYSKY.DSN")
       (Schematic "SCHEMATIC1")
@@ -250,7 +250,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 104 1245 104 475")
-        (Scroll "0 1503")
+        (Scroll "0 1344")
         (Zoom "248")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\STARRYSKY\SCH\V2.0\STARRYSKY.DSN")
