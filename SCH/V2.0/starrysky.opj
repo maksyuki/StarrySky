@@ -33,7 +33,7 @@
     (DRC_Run_Electrical_Rules "TRUE")
     (DRC_Run_Physical_Rules "TRUE")
     (DRC_Report_File
-       "G:\project_development\GitHub\NutShell-Pi\SCH\V2.0\NUTSHELL_PI.DRC")
+       "G:\project_development\GitHub\StarrySky\SCH\V2.0\STARRYSKY.DRC")
     (DRC_Check_Ports "TRUE")
     (DRC_Check_Off-Page_Connectors "TRUE")
     (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
@@ -63,7 +63,7 @@
     (DRC_Run_Physical_Custom_DRC "FALSE")
     ("Create Allegro Netlist" "TRUE")
     ("Allegro Netlist Directory"
-       "G:\PROJECT_DEVELOPMENT\GITHUB\NUTSHELL-PI\SCH\V2.0\NETLIST")
+       "G:\PROJECT_DEVELOPMENT\GITHUB\STARRYSKY\SCH\V2.0\NETLIST")
     ("View Allegro Netlist Files" "FALSE")
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "FALSE")
@@ -93,7 +93,18 @@
     (BOM_One_Part_Per_Line "FALSE")
     (Open_BOM_in_Excel "TRUE")
     (BOM_View_Output "FALSE"))
-  (Folder "Outputs")
+  (Folder "Outputs"
+    (File ".\starrysky.drc"
+      (Type "Report"))
+    (File ".\netlist\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\netlist\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\netlist\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (PartMRUSelector
     (HEADER-20X2
@@ -204,12 +215,9 @@
       (Path "Design Resources"
          "g:\project_development\github\starrysky\sch\v2.0\starrysky.dsn"
          "SCHEMATIC1")
-      (Path "Design Resources"
-         "g:\project_development\github\starrysky\sch\v2.0\starrysky.dsn"
-         "Design Cache")
+      (Path "Outputs")
       (Select "Design Resources"
-         "g:\project_development\github\starrysky\sch\v2.0\starrysky.dsn"
-         "Design Cache" "ACA-SPI-004-K02"))
+         "g:\project_development\github\starrysky\sch\v2.0\starrysky.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -220,7 +228,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 130 1271 130 501")
-        (Scroll "0 299")
+        (Scroll "838 736")
         (Zoom "232")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\STARRYSKY\SCH\V2.0\STARRYSKY.DSN")
@@ -230,7 +238,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 52 1193 52 423")
-        (Scroll "489 453")
+        (Scroll "0 313")
         (Zoom "130")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\STARRYSKY\SCH\V2.0\STARRYSKY.DSN")
@@ -240,8 +248,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 78 1219 78 449")
-        (Scroll "-180 0")
-        (Zoom "35")
+        (Scroll "6 3632")
+        (Zoom "280")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\STARRYSKY\SCH\V2.0\STARRYSKY.DSN")
       (Schematic "SCHEMATIC1")
@@ -250,12 +258,18 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 104 1245 104 475")
-        (Scroll "0 1344")
+        (Scroll "1300 1094")
         (Zoom "248")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\STARRYSKY\SCH\V2.0\STARRYSKY.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "P04_FPGA_B2B")))
+      (Page "P04_FPGA_B2B"))
+    (Doc
+      (Type "TextFile")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1219 26 292"))
+      (Path "g:\project_development\github\starrysky\sch\v2.0\starrysky.drc")
+      (Scroll "1023")))
   (MPSSessionName "abcd")
   (LastUsedLibraryBrowseDirectory
      "G:\project_development\GitHub\cadence_sch_lib")
