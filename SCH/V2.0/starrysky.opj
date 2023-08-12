@@ -215,19 +215,21 @@
       (Path "Design Resources"
          "g:\project_development\github\starrysky\sch\v2.0\starrysky.dsn"
          "SCHEMATIC1")
-      (Path "Outputs"))
+      (Path "Outputs")
+      (Select "Design Resources"
+         "g:\project_development\github\starrysky\sch\v2.0\starrysky.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 227"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 227"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 130 1271 130 501")
-        (Scroll "-186 0")
-        (Zoom "29")
+        (Scroll "715 39")
+        (Zoom "116")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\STARRYSKY\SCH\V2.0\STARRYSKY.DSN")
       (Schematic "SCHEMATIC1")
@@ -236,8 +238,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 52 1193 52 423")
-        (Scroll "2250 78")
-        (Zoom "260")
+        (Scroll "-104 0")
+        (Zoom "65")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\STARRYSKY\SCH\V2.0\STARRYSKY.DSN")
       (Schematic "SCHEMATIC1")
@@ -246,8 +248,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 78 1219 78 449")
-        (Scroll "7286 7095")
-        (Zoom "560")
+        (Scroll "0 747")
+        (Zoom "192")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\STARRYSKY\SCH\V2.0\STARRYSKY.DSN")
       (Schematic "SCHEMATIC1")
@@ -255,9 +257,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 104 1245 104 475")
-        (Scroll "-263 -9")
-        (Zoom "62")
+        (Placement "44 0 1 -1 -1 -8 -31 104 1245 104 475")
+        (Scroll "1260 1037")
+        (Zoom "248")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\STARRYSKY\SCH\V2.0\STARRYSKY.DSN")
       (Schematic "SCHEMATIC1")
