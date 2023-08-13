@@ -228,7 +228,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 130 1271 130 501")
-        (Scroll "2239 142")
+        (Scroll "2872 647")
         (Zoom "232")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\STARRYSKY\SCH\V2.0\STARRYSKY.DSN")
@@ -238,7 +238,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 52 1193 52 423")
-        (Scroll "-104 0")
+        (Scroll "-104 46")
         (Zoom "65")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\STARRYSKY\SCH\V2.0\STARRYSKY.DSN")
@@ -248,8 +248,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 78 1219 78 449")
-        (Scroll "0 747")
-        (Zoom "192")
+        (Scroll "6127 3357")
+        (Zoom "384")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\STARRYSKY\SCH\V2.0\STARRYSKY.DSN")
       (Schematic "SCHEMATIC1")
@@ -258,7 +258,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 104 1245 104 475")
-        (Scroll "1260 1037")
+        (Scroll "0 491")
         (Zoom "248")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\STARRYSKY\SCH\V2.0\STARRYSKY.DSN")
