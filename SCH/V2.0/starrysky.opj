@@ -248,8 +248,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 78 1219 78 449")
-        (Scroll "6127 3357")
-        (Zoom "384")
+        (Scroll "2749 1225")
+        (Zoom "192")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\STARRYSKY\SCH\V2.0\STARRYSKY.DSN")
       (Schematic "SCHEMATIC1")
