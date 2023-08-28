@@ -82,7 +82,7 @@
     (BOM_Scope "0")
     (BOM_Mode "0")
     (BOM_Report_File
-       "G:\project_development\GitHub\ysyx3_pcb\MFG\V1.1_20230324\BOM\ysyx3_pcb.BOM")
+       "G:\project_development\GitHub\StarrySky\MFG\V2.0_20230828\BOM\STARRYSKY.BOM")
     (BOM_Merge_Include "FALSE")
     (BOM_Property_Combine_7.0
        "{Value}\t{Reference}\t{PCB Footprint}\t{Quantity}")
@@ -104,7 +104,10 @@
       (DisplayName "pstxprt.dat"))
     (File ".\netlist\pstchip.dat"
       (Type "Report")
-      (DisplayName "pstchip.dat")))
+      (DisplayName "pstchip.dat"))
+    (File
+       "g:\project_development\github\starrysky\mfg\v2.0_20230828\bom\starrysky.bom"
+      (Type "Report")))
   (Folder "Referenced Projects")
   (PartMRUSelector
     (HEADER-20X2
@@ -222,13 +225,13 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 227"))
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 227"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 130 1271 130 501")
-        (Scroll "863 860")
+        (Scroll "790 442")
         (Zoom "116")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\STARRYSKY\SCH\V2.0\STARRYSKY.DSN")
@@ -237,9 +240,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1193 52 423")
-        (Scroll "-104 0")
-        (Zoom "65")
+        (Placement "44 2 3 -1 -1 -8 -31 52 1193 52 423")
+        (Scroll "2249 1513")
+        (Zoom "260")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\STARRYSKY\SCH\V2.0\STARRYSKY.DSN")
       (Schematic "SCHEMATIC1")
@@ -248,7 +251,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 78 1219 78 449")
-        (Scroll "140 3601")
+        (Scroll "1338 1498")
         (Zoom "280")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\STARRYSKY\SCH\V2.0\STARRYSKY.DSN")
@@ -258,7 +261,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 104 1245 104 475")
-        (Scroll "254 329")
+        (Scroll "0 421")
         (Zoom "124")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\STARRYSKY\SCH\V2.0\STARRYSKY.DSN")
