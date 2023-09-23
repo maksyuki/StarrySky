@@ -220,7 +220,8 @@
          "SCHEMATIC1")
       (Path "Outputs")
       (Select "Design Resources"
-         "g:\project_development\github\starrysky\sch\v2.0\starrysky.dsn"))
+         "g:\project_development\github\starrysky\sch\v2.0\starrysky.dsn"
+         "SCHEMATIC1" "P04_FPGA_B2B"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -231,7 +232,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 130 1271 130 501")
-        (Scroll "790 442")
+        (Scroll "1590 348")
         (Zoom "116")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\STARRYSKY\SCH\V2.0\STARRYSKY.DSN")
@@ -240,9 +241,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 1193 52 423")
-        (Scroll "2249 1513")
-        (Zoom "260")
+        (Placement "44 0 1 -1 -1 -8 -31 52 1193 52 423")
+        (Scroll "458 101")
+        (Zoom "130")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\STARRYSKY\SCH\V2.0\STARRYSKY.DSN")
       (Schematic "SCHEMATIC1")
@@ -250,9 +251,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1219 78 449")
-        (Scroll "1338 1498")
-        (Zoom "280")
+        (Placement "44 2 3 -1 -1 -8 -31 78 1219 78 449")
+        (Scroll "0 66")
+        (Zoom "140")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\STARRYSKY\SCH\V2.0\STARRYSKY.DSN")
       (Schematic "SCHEMATIC1")
@@ -260,8 +261,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1245 104 475")
-        (Scroll "0 421")
+        (Placement "44 0 1 -1 -1 -8 -31 104 1276 104 475")
+        (Scroll "55 316")
         (Zoom "124")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\STARRYSKY\SCH\V2.0\STARRYSKY.DSN")
