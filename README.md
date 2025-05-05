@@ -16,7 +16,7 @@
       <img src="https://img.shields.io/badge/total%20lines-0k-red?style=flat-square">
     </a>
     <a href="https://github.com/maksyuki/StarrySky">
-      <img src="https://img.shields.io/badge/toolchain-orcad%20allegro-red?style=flat-square">
+      <img src="https://img.shields.io/badge/toolchain-orcad%20allegro%20KiCad-red?style=flat-square">
   </a>
     <a href="./CONTRIBUTING.md">
       <img src="https://img.shields.io/badge/contribution-welcome-brightgreen?style=flat-square">
