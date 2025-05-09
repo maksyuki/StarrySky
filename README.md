@@ -17,6 +17,12 @@
     </a>
 </p>
 
+The StarrySky is now fully Open Source Hardware Association Certified.
+
+UID:CN000018 https://certification.oshwa.org/list.html
+
+Hardware, software and documentation licensed under the GPL v3 license.
+
 ## Overview
 The StarrySky series Single Board Computer (SBC) is an official board designed by the Yuchi Miao in March 2023 based on the One Student One Chip SoC. It is used to evaluate and showcase the rich peripheral applications of the One Student One Chip SoC. The long-term goal is to build a lightweight software and hardware ecosystem around the Starry Sky boards and explore rich application scenarios in the field of education.
 
