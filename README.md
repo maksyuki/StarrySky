@@ -3,9 +3,6 @@
     <h2 align="center">StarrySky: A series of Single-board Computers(SBCs) with OSOC SoC</h2>
 </p>
 <p align="center">
-    <a href="https://github.com/maksyuki/StarrySky/actions">
-      <img src="https://img.shields.io/github/actions/workflow/status/maksyuki/StarrySky/unit-test.yml?branch=main&logo=github&style=flat-square">
-    </a>
     <a href="./LICENSE">
       <img src="https://img.shields.io/github/license/maksyuki/StarrySky?color=brightgreen&logo=github&style=flat-square">
     </a>
@@ -20,6 +17,7 @@
 The StarrySky is now fully Open Source Hardware Association Certified.
 
 UID:CN000018 https://certification.oshwa.org/list.html
+![certification-mark-CN000018-wide](https://github.com/user-attachments/assets/31b95df3-14da-41ca-88c3-d84088496895)
 
 Hardware, software and documentation licensed under the GPL v3 license.
 
