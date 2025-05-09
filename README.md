@@ -17,7 +17,8 @@
 The StarrySky is now fully Open Source Hardware Association Certified.
 
 UID:CN000018 https://certification.oshwa.org/list.html
-![certification-mark-CN000018-wide](https://github.com/user-attachments/assets/31b95df3-14da-41ca-88c3-d84088496895)
+
+![image](https://github.com/user-attachments/assets/6db0a641-33f4-4724-aab8-8800f3e7f65c)
 
 Hardware, software and documentation licensed under the GPL v3 license.
 
