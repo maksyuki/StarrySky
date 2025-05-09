@@ -18,7 +18,7 @@
 </p>
 
 ## Overview
-The StarrySky series Single Board Computer (SBC) is an official board designed by the Yuchi Miao in March 2023 based on the One Student One Chip SoC, after absorbing the design experience of multiple test boards in the early stage. It is used to evaluate and showcase the rich peripheral applications of the One Student One Chip SoC. Yuchi Miao independently completed the hardware design, production management, tutorial writing, and packaging visual design of the Starry Sky series single board computer. The short-term goal is to continuously polish the software and hardware systems of the Starry Sky series board by relying on 2-3 annual lifetime SoC chip production, providing a stable and easy to develop software testing platform for the open source community. The long-term goal is to build a lightweight software and hardware ecosystem around the Starry Sky series board and explore its rich application scenarios in the field of scientific research chip production.
+The StarrySky series Single Board Computer (SBC) is an official board designed by the Yuchi Miao in March 2023 based on the One Student One Chip SoC. It is used to evaluate and showcase the rich peripheral applications of the One Student One Chip SoC. The long-term goal is to build a lightweight software and hardware ecosystem around the Starry Sky boards and explore rich application scenarios in the field of education.
 
 ![image](https://github.com/user-attachments/assets/fd01c572-b0ea-45c1-8bad-06f2df4d89d1)
 
