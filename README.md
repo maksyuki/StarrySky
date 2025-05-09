@@ -1,6 +1,6 @@
 <p align="center">
     <!-- <img width="200px" src="./.images/tree_core_logo.svg" align="center" alt="Tree Core CPU" /> -->
-    <h2 align="center">StarrySky: A series of Single-board Computers(SBCs) with OSOC SoC</h2>
+    <h2 align="center">StarrySky: A series of Single-board Computers(SBCs) based on OSOC SoC</h2>
 </p>
 <p align="center">
     <a href="./LICENSE">
@@ -27,9 +27,9 @@ Hardware, software and documentation licensed under the GPL v3 license.
 * StarrySky V1.2: https://ysyx.oscc.cc/chip/board/official/boards/board-1
 * StarrySky V1.3: https://ysyx.oscc.cc/chip/board/official/boards/board-2
 * StarrySky V2.1: https://ysyx.oscc.cc/chip/board/official/boards/board-3
-* 
+* StarrySky V3.0: come soon!
 ## Overview
-The StarrySky series Single Board Computer (SBC) is an official board designed by the Yuchi Miao in March 2023 based on the One Student One Chip SoC. It is used to evaluate and showcase the rich peripheral applications of the One Student One Chip SoC. The long-term goal is to build a lightweight software and hardware ecosystem around the Starry Sky boards and explore rich application scenarios in the field of education.
+The StarrySky SBC(Single Board Computer) was launched by Yuchi Miao in March 2023. It is used to evaluate and showcase the rich peripheral applications of the One Student One Chip SoC. The long-term goal is to build a lightweight software and hardware ecosystem around the Starry Sky boards and explore rich application scenarios in the field of education.
 
 ![image](https://github.com/user-attachments/assets/fd01c572-b0ea-45c1-8bad-06f2df4d89d1)
 
