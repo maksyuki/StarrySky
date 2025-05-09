@@ -6,11 +6,11 @@
     <a href="./LICENSE">
       <img src="https://img.shields.io/github/license/maksyuki/StarrySky?color=brightgreen&logo=github&style=flat-square">
     </a>
-    <a href="https://github.com/maksyuki/StarrySky">
-      <img alt="stars" src="https://img.shields.io/github/stars/maksyuki/StarrySky?color=blue&style=flat-square" />
-    </a>
     <a href="./CONTRIBUTING.md">
       <img src="https://img.shields.io/badge/contribution-welcome-brightgreen?style=flat-square">
+    </a>
+    <a href="https://github.com/maksyuki/StarrySky">
+      <img alt="stars" src="https://img.shields.io/github/stars/maksyuki/StarrySky?color=blue&style=flat-square" />
     </a>
 </p>
 
@@ -22,6 +22,12 @@ UID:CN000018 https://certification.oshwa.org/list.html
 
 Hardware, software and documentation licensed under the GPL v3 license.
 
+## Guide
+* StarrySky introduction: https://ysyx.oscc.cc/chip/board/official
+* StarrySky V1.2: https://ysyx.oscc.cc/chip/board/official/boards/board-1
+* StarrySky V1.3: https://ysyx.oscc.cc/chip/board/official/boards/board-2
+* StarrySky V2.1: https://ysyx.oscc.cc/chip/board/official/boards/board-3
+* 
 ## Overview
 The StarrySky series Single Board Computer (SBC) is an official board designed by the Yuchi Miao in March 2023 based on the One Student One Chip SoC. It is used to evaluate and showcase the rich peripheral applications of the One Student One Chip SoC. The long-term goal is to build a lightweight software and hardware ecosystem around the Starry Sky boards and explore rich application scenarios in the field of education.
 
@@ -30,12 +36,6 @@ The StarrySky series Single Board Computer (SBC) is an official board designed b
 ![image](https://github.com/user-attachments/assets/6a0e2041-ad4a-4e66-a81c-6448e899e9d1)
 
 ![image](https://github.com/user-attachments/assets/d0ad9ca6-79b4-4a9c-b26a-76f3308cfaa0)
-
-## Documents
-* StarrySky introduction: https://ysyx.oscc.cc/chip/board/official
-* StarrySky V1.2: https://ysyx.oscc.cc/chip/board/official/boards/board-1
-* StarrySky V1.3: https://ysyx.oscc.cc/chip/board/official/boards/board-2
-* StarrySky V2.1: https://ysyx.oscc.cc/chip/board/official/boards/board-3
 
 ## License
 All of the contents in this repo are release under the [GPL-3.0 License](LICENSE).
